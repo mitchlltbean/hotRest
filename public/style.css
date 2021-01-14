@@ -1,0 +1,8 @@
+.jumbotron {
+  background-image: url("https://freedom2b.org/wp-content/uploads/2015/03/stroop.jpg");
+  height: 70vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
